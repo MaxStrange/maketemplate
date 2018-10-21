@@ -8,3 +8,5 @@ So I'm going to just put this one Makefile here, and I'll use it from now on.
 
 It uses FreeRTOS as an example, which is licensed under MIT (like this project).
 
+Some of this (most?) was stolen from [here](https://github.com/franzflasch/stm32f4_makefile_project_template/blob/master/Makefile).
+
